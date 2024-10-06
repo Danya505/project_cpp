@@ -1,0 +1,5 @@
+let t;
+let = 2;
+let let = t;
+let + x;
+quit;
