@@ -1,0 +1,3 @@
+/home/danya/Test/asm/cpp/advanced_CPP/Task1/build/CMakeFiles/usergroup.dir
+/home/danya/Test/asm/cpp/advanced_CPP/Task1/build/CMakeFiles/edit_cache.dir
+/home/danya/Test/asm/cpp/advanced_CPP/Task1/build/CMakeFiles/rebuild_cache.dir
