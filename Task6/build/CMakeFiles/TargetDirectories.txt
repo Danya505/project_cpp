@@ -1,0 +1,3 @@
+/home/danya/Test/cpp/Task6/build/CMakeFiles/RallyBuilder.dir
+/home/danya/Test/cpp/Task6/build/CMakeFiles/edit_cache.dir
+/home/danya/Test/cpp/Task6/build/CMakeFiles/rebuild_cache.dir
